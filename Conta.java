@@ -69,7 +69,6 @@ public class Conta {
     }
 
     public void notificacao(String mensagem) {
-        // Implemente aqui a lógica para enviar notificações por email ou SMS.
         System.out.println("Notificação: " + mensagem);
     }
 }
